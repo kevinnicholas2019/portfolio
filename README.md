@@ -1,4 +1,6 @@
-<img src="./my_foto_wisuda.png" alt="">
+<div align="center">
+    <img src="./my_foto_wisuda.png" alt="">
+</div>
 
 <h1 align="center">Kevin Nicholas, BSc</h1>
 <h3 align="center">Graduated in BINUS University</h3>
